@@ -1,0 +1,23 @@
+#Translated, #LamakWord{
+	width:70%;
+	height:250px;
+	font-size:120%;
+	font-weight:normal;
+}
+#Translated{
+	font-weight:bold;
+}
+#Chat{
+	max-height:100%;
+	overflow:hidden;
+	float:right;
+	width:29%;
+	max-width:29%;
+	height:100%;
+	/*border:1px solid;*/
+}
+#Chat p{
+	display:block;
+	font-size:80%;
+	margin:0;
+}
